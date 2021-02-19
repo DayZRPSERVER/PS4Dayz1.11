@@ -18,8 +18,8 @@ Example messages:
 2) following message will be displayed every 15 minutes to every player
 -->
     <message>
-        <repeat>15</repeat>
-        <text>You're playing on my server (#name). Thank you .)</text>
+        <repeat>120</repeat>
+        <text>管理チームのお手伝いをして頂く・週間ミッションをクリアすると所持金が増えます</text>
     </message>
  
  <!--
@@ -40,7 +40,7 @@ Example messages:
     <message>
         <delay>20</delay>
         <onconnect>1</onconnect>
-        <text>ようこそ #name へ 通貨、懸賞金については別途通知致します。</text>
+        <text>ようこそ #name へ 動物達が増えました。その他細かい更新を行いました。</text>
     </message>
 	
 	
