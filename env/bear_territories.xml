@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory-type>
     <territory color="4294923520">
+    	<zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3647" z="8995" r="10"/><!--パラボ-->
+    <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3726" z="8923" r="5"/><!--パラボ-->
+    	        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4733" z="10407" r="300"/>
+            <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4190" z="11075" r="300"/>
+                    <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4026" z="11771" r="300"/>
+                            <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3874" z="10952" r="300"/>
+                                    <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4495" z="9502" r="300"/>
+                                            <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4553" z="9720" r="300"/>
+                                                    <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5339" z="9786" r="300"/>
+                                                            <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4674" z="10539" r="300"/>
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="547.5" z="10001.3" r="100"/>
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="397.5" z="10402.5" r="100"/>
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="630" z="10425" r="100"/>
@@ -11,6 +21,10 @@
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="862.5" z="11955" r="100"/>
     </territory>
     <territory color="4294923520">
+    	        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1653" z="11417" r="300"/>
+            <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1538" z="13690" r="300"/>
+                    <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1903" z="13985" r="300"/>
+                    
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1920" z="13115" r="100"/>
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2085" z="13415" r="200"/>
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2465" z="14005" r="150"/>
