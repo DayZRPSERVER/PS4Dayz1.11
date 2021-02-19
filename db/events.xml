@@ -3,83 +3,83 @@
     <event name="Staticshop1"><nominal>1</nominal><min>1</min><max>1</max><lifetime>3888000</lifetime>
         <restock>0</restock><saferadius>0</saferadius><distanceradius>0</distanceradius><cleanupradius>100</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="0" sec_spawner="0"/><position>fixed</position><limit>mixed</limit>
-        <active>1</active><children><child lootmax="0" lootmin="0" max="1" min="1" type="Land_Workshop1"/></children></event>
+        <active>1</active><children><child lootmax="2" lootmin="1" max="1" min="1" type="Land_Workshop1"/></children></event>
     <event name="Staticheli1"><nominal>1</nominal><min>1</min><max>1</max><lifetime>3888000</lifetime>
         <restock>0</restock><saferadius>0</saferadius><distanceradius>0</distanceradius><cleanupradius>100</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="0" sec_spawner="0"/><position>fixed</position><limit>mixed</limit>
-        <active>1</active><children><child lootmax="0" lootmin="0" max="1" min="1" type="Wreck_UH1Y"/></children></event>
+        <active>1</active><children><child lootmax="2" lootmin="1" max="1" min="1" type="Wreck_UH1Y"/></children></event>
 	<event name="Staticheli2"><nominal>1</nominal><min>1</min><max>1</max><lifetime>3888000</lifetime>
         <restock>0</restock><saferadius>0</saferadius><distanceradius>0</distanceradius><cleanupradius>100</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="0" sec_spawner="0"/><position>fixed</position><limit>mixed</limit>
-        <active>1</active><children><child lootmax="0" lootmin="0" max="1" min="1" type="Wreck_UH1Y"/></children></event>
+        <active>1</active><children><child lootmax="2" lootmin="1" max="1" min="1" type="Wreck_UH1Y"/></children></event>
 	<event name="Staticwatchtower1"><nominal>1</nominal><min>1</min><max>1</max><lifetime>3888000</lifetime>
         <restock>0</restock><saferadius>0</saferadius><distanceradius>0</distanceradius><cleanupradius>100</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="0" sec_spawner="0"/><position>fixed</position><limit>mixed</limit>
-        <active>1</active><children><child lootmax="0" lootmin="0" max="1" min="1" type="Land_Mil_Fortified_Nest_Watchtower"/></children></event>
+        <active>1</active><children><child lootmax="2" lootmin="1" max="1" min="1" type="Land_Mil_Fortified_Nest_Watchtower"/></children></event>
 	<event name="Staticnestsmall1"><nominal>1</nominal><min>1</min><max>1</max><lifetime>3888000</lifetime>
         <restock>0</restock><saferadius>0</saferadius><distanceradius>0</distanceradius><cleanupradius>100</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="0" sec_spawner="0"/><position>fixed</position><limit>mixed</limit>
-        <active>1</active><children><child lootmax="0" lootmin="0" max="1" min="1" type="Land_Mil_Fortified_Nest_Small"/></children></event>
+        <active>1</active><children><child lootmax="2" lootmin="1" max="1" min="1" type="Land_Mil_Fortified_Nest_Small"/></children></event>
 	<event name="Staticnestsmall2"><nominal>1</nominal><min>1</min><max>1</max><lifetime>3888000</lifetime>
         <restock>0</restock><saferadius>0</saferadius><distanceradius>0</distanceradius><cleanupradius>100</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="0" sec_spawner="0"/><position>fixed</position><limit>mixed</limit>
-        <active>1</active><children><child lootmax="0" lootmin="0" max="1" min="1" type="Land_Mil_Fortified_Nest_Small"/></children></event>
+        <active>1</active><children><child lootmax="2" lootmin="1" max="1" min="1" type="Land_Mil_Fortified_Nest_Small"/></children></event>
 	<event name="Staticmilbarracks1"><nominal>1</nominal><min>1</min><max>1</max><lifetime>3888000</lifetime>
         <restock>0</restock><saferadius>0</saferadius><distanceradius>0</distanceradius><cleanupradius>100</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="0" sec_spawner="0"/><position>fixed</position><limit>mixed</limit>
-        <active>1</active><children><child lootmax="0" lootmin="0" max="1" min="1" type="Land_Mil_Barracks_Round"/></children></event>
+        <active>1</active><children><child lootmax="2" lootmin="1" max="1" min="1" type="Land_Mil_Barracks_Round"/></children></event>
 	<event name="Staticmiltent1"><nominal>1</nominal><min>1</min><max>1</max><lifetime>3888000</lifetime>
         <restock>0</restock><saferadius>0</saferadius><distanceradius>0</distanceradius><cleanupradius>100</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="0" sec_spawner="0"/><position>fixed</position><limit>mixed</limit>
-        <active>1</active><children><child lootmax="0" lootmin="0" max="1" min="1" type="Land_Mil_Tent_Big1_1"/></children></event>
+        <active>1</active><children><child lootmax="2" lootmin="1" max="1" min="1" type="Land_Mil_Tent_Big1_1"/></children></event>
 	<event name="Staticmiltent2"><nominal>1</nominal><min>1</min><max>1</max><lifetime>3888000</lifetime>
         <restock>0</restock><saferadius>0</saferadius><distanceradius>0</distanceradius><cleanupradius>100</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="0" sec_spawner="0"/><position>fixed</position><limit>mixed</limit>
-        <active>1</active><children><child lootmax="0" lootmin="0" max="1" min="1" type="Land_Mil_Tent_Big1_2"/></children></event>
+        <active>1</active><children><child lootmax="2" lootmin="1" max="1" min="1" type="Land_Mil_Tent_Big1_2"/></children></event>
 	<event name="Staticmiltent3"><nominal>1</nominal><min>1</min><max>1</max><lifetime>3888000</lifetime>
         <restock>0</restock><saferadius>0</saferadius><distanceradius>0</distanceradius><cleanupradius>100</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="0" sec_spawner="0"/><position>fixed</position><limit>mixed</limit>
-        <active>1</active><children><child lootmax="0" lootmin="0" max="1" min="1" type="Land_Mil_Tent_Big1_3"/></children></event>
+        <active>1</active><children><child lootmax="2" lootmin="1" max="1" min="1" type="Land_Mil_Tent_Big1_3"/></children></event>
 	<event name="Staticmiltent4"><nominal>1</nominal><min>1</min><max>1</max><lifetime>3888000</lifetime>
         <restock>0</restock><saferadius>0</saferadius><distanceradius>0</distanceradius><cleanupradius>100</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="0" sec_spawner="0"/><position>fixed</position><limit>mixed</limit>
-        <active>1</active><children><child lootmax="0" lootmin="0" max="1" min="1" type="Land_Mil_Tent_Big1_4"/></children></event>
+        <active>1</active><children><child lootmax="2" lootmin="1" max="1" min="1" type="Land_Mil_Tent_Big1_4"/></children></event>
 	<event name="Staticmiltent5"><nominal>1</nominal><min>1</min><max>1</max><lifetime>3888000</lifetime>
         <restock>0</restock><saferadius>0</saferadius><distanceradius>0</distanceradius><cleanupradius>100</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="0" sec_spawner="0"/><position>fixed</position><limit>mixed</limit>
-        <active>1</active><children><child lootmax="0" lootmin="0" max="1" min="1" type="Land_Mil_Tent_Big1_4"/></children></event>
+        <active>1</active><children><child lootmax="2" lootmin="1" max="1" min="1" type="Land_Mil_Tent_Big1_4"/></children></event>
 	<event name="Staticmiltent6"><nominal>1</nominal><min>1</min><max>1</max><lifetime>3888000</lifetime>
         <restock>0</restock><saferadius>0</saferadius><distanceradius>0</distanceradius><cleanupradius>100</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="0" sec_spawner="0"/><position>fixed</position><limit>mixed</limit>
-        <active>1</active><children><child lootmax="0" lootmin="0" max="1" min="1" type="Land_Mil_Tent_Big1_4"/></children></event>
+        <active>1</active><children><child lootmax="2" lootmin="1" max="1" min="1" type="Land_Mil_Tent_Big1_4"/></children></event>
 	<event name="Statichous1"><nominal>1</nominal><min>1</min><max>1</max><lifetime>3888000</lifetime>
         <restock>0</restock><saferadius>0</saferadius><distanceradius>0</distanceradius><cleanupradius>100</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="0" sec_spawner="0"/><position>fixed</position><limit>mixed</limit>
-        <active>1</active><children><child lootmax="0" lootmin="0" max="1" min="1" type="Land_House_1W01"/></children></event>
+        <active>1</active><children><child lootmax="2" lootmin="1" max="1" min="1" type="Land_House_1W01"/></children></event>
 	<event name="Statichous2"><nominal>1</nominal><min>1</min><max>1</max><lifetime>3888000</lifetime>
         <restock>0</restock><saferadius>0</saferadius><distanceradius>0</distanceradius><cleanupradius>100</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="0" sec_spawner="0"/><position>fixed</position><limit>mixed</limit>
-        <active>1</active><children><child lootmax="0" lootmin="0" max="1" min="1" type="Land_House_1W02"/></children></event>
+        <active>1</active><children><child lootmax="2" lootmin="1" max="1" min="1" type="Land_House_1W02"/></children></event>
 	<event name="Staticpump1"><nominal>1</nominal><min>1</min><max>1</max><lifetime>3888000</lifetime>
         <restock>0</restock><saferadius>0</saferadius><distanceradius>0</distanceradius><cleanupradius>100</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="0" sec_spawner="0"/><position>fixed</position><limit>mixed</limit>
-        <active>1</active><children><child lootmax="0" lootmin="0" max="1" min="1" type="Land_Misc_Well_Pump_Blue"/></children></event>
+        <active>1</active><children><child lootmax="2" lootmin="1" max="1" min="1" type="Land_Misc_Well_Pump_Blue"/></children></event>
 	<event name="Staticpump2"><nominal>1</nominal><min>1</min><max>1</max><lifetime>3888000</lifetime>
         <restock>0</restock><saferadius>0</saferadius><distanceradius>0</distanceradius><cleanupradius>100</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="0" sec_spawner="0"/><position>fixed</position><limit>mixed</limit>
-        <active>1</active><children><child lootmax="0" lootmin="0" max="1" min="1" type="Land_Misc_Well_Pump_Blue"/></children></event>
+        <active>1</active><children><child lootmax="2" lootmin="1" max="1" min="1" type="Land_Misc_Well_Pump_Blue"/></children></event>
 	<event name="Staticpump3"><nominal>1</nominal><min>1</min><max>1</max><lifetime>3888000</lifetime>
         <restock>0</restock><saferadius>0</saferadius><distanceradius>0</distanceradius><cleanupradius>100</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="0" sec_spawner="0"/><position>fixed</position><limit>mixed</limit>
-        <active>1</active><children><child lootmax="0" lootmin="0" max="1" min="1" type="Land_Misc_Well_Pump_Blue"/></children></event>
+        <active>1</active><children><child lootmax="2" lootmin="1" max="1" min="1" type="Land_Misc_Well_Pump_Blue"/></children></event>
 	<event name="Staticpump4"><nominal>1</nominal><min>1</min><max>1</max><lifetime>3888000</lifetime>
         <restock>0</restock><saferadius>0</saferadius><distanceradius>0</distanceradius><cleanupradius>100</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="0" sec_spawner="0"/><position>fixed</position><limit>mixed</limit>
-        <active>1</active><children><child lootmax="0" lootmin="0" max="1" min="1" type="Land_Misc_Well_Pump_Blue"/></children></event>
+        <active>1</active><children><child lootmax="2" lootmin="1" max="1" min="1" type="Land_Misc_Well_Pump_Blue"/></children></event>
 	<event name="Statichous3"><nominal>1</nominal><min>1</min><max>1</max><lifetime>3888000</lifetime>
         <restock>0</restock><saferadius>0</saferadius><distanceradius>0</distanceradius><cleanupradius>100</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="0" sec_spawner="0"/><position>fixed</position><limit>mixed</limit>
-        <active>1</active><children><child lootmax="0" lootmin="0" max="1" min="1" type="Land_Mil_GuardBox_Brown"/></children></event>
+        <active>1</active><children><child lootmax="2" lootmin="1" max="1" min="1" type="Land_Mil_GuardBox_Brown"/></children></event>
 
 
     <event name="StaticLand_CementWorks_ExpeditionB">
@@ -96,7 +96,7 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="Land_CementWorks_ExpeditionB"/>
+            <child lootmax="2" lootmin="1" max="1" min="1" type="Land_CementWorks_ExpeditionB"/>
         </children>
     </event>
 	    <event name="StaticLand_CementWorks_ExpeditionC">
@@ -113,7 +113,7 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="Land_CementWorks_ExpeditionC"/>
+            <child lootmax="2" lootmin="1" max="1" min="1" type="Land_CementWorks_ExpeditionC"/>
         </children>
     </event>
 <event name="StaticNPC1">
