@@ -1,5 +1,55 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <randompresets>
+	<!--NPCSoV-->
+	<cargo chance="1" name="hatssovnpc">
+			<item name="Ssh68Helmet" chance="0.6" />
+			<item name="GorkaHelmet" chance="0.3" />
+			<item name="GorkaHelmet_Black" chance="0.05" />
+			<item name="GorkaHelmet_Green" chance="0.05" />
+	</cargo>
+	<cargo chance="1" name="vestsovnpc">
+			<item name="UKAssVest_Black" chance="0.25" />
+			<item name="UKAssVest_Camo" chance="0.25" />
+			<item name="UKAssVest_Khaki" chance="0.25" />
+			<item name="UKAssVest_Olive" chance="0.25" />
+	</cargo>
+	<cargo chance="1" name="vestsovnpc">
+			<item name="BDUJacket" chance="1" />
+	</cargo>
+	<cargo chance="1" name="pantssovnpc">
+			<item name="BDUPants" chance="1" />
+	</cargo>
+	<cargo chance="1" name="bootsnpc">
+			<item name="CombatBoots_Beige" chance="0.2" />
+			<item name="CombatBoots_Black" chance="0.2" />
+			<item name="CombatBoots_Brown" chance="0.2" />
+			<item name="CombatBoots_Green" chance="0.2" />
+			<item name="CombatBoots_Grey" chance="0.2" />
+	</cargo>
+	<attachments chance="1" name="bagsnpc">
+			<item name="AssaultBag_Green" chance="0.20" />
+			<item name="AssaultBag_Ttsko" chance="0.20" />
+			<item name="AssaultBag_Black" chance="0.20" />
+			<item name="AliceBag_Camo" chance="0.02" />
+			<item name="AliceBag_Green" chance="0.02" />
+			<item name="AliceBag_Black" chance="0.02" />
+			<item name="TortillaBag" chance="0.1" />
+			<item name="CoyoteBag_Brown" chance="0.02" />
+			<item name="CoyoteBag_Green" chance="0.02" />
+		</attachments>
+		<cargo chance="1" name="wpsovnpc">
+			<item name="FAL" chance="0.25" />
+			<item name="SVD" chance="0.25" />
+			<item name="AK101" chance="0.25" />
+			<item name="VSS" chance="0.25" />
+		</cargo>
+	<!--NPCSoV END-->
+	<cargo chance="1" name="hatsunnpc">
+			<item name="Mich2001Helmet" chance="0.25" />
+			<item name="BallisticHelmet_Black" chance="0.25" />
+			<item name="BallisticHelmet_Green" chance="0.25" />
+			<item name="BallisticHelmet_UN" chance="0.25" />
+	</cargo>
 	<cargo chance="0.6" name="hatsArmy1">
 			<item name="GorkaHelmet" chance="0.5" />
 			<item name="GorkaHelmet_Black" chance="0.1" />
@@ -297,7 +347,7 @@
 				<item name="SpaghettiCan" chance="0.10" />
 				<item name="BakedBeansCan" chance="0.10" />
 		</cargo>
-		<cargo chance="0.10" name="foodArmy">
+		<cargo chance="0.05" name="foodArmy">
 				<item name="SodaCan_Cola" chance="0.05" />
 				<item name="SodaCan_Pipsi" chance="0.05" />
 				<item name="SodaCan_Spite" chance="0.05" />
@@ -406,7 +456,7 @@
 				<item name="Ammo_45ACP" chance="0.3" />
 				<item name="AmmoBox_45ACP_25Rnd" chance="0.1" />
 		</cargo>
-		<cargo chance="0.5" name="ammoArmy">
+		<cargo chance="0.1" name="ammoArmy">
 				<item name="Ammo_45ACP" chance="0.2" />
 				<item name="AmmoBox_45ACP_25Rnd" chance="0.1" />
 				<item name="Ammo_762x39" chance="0.3" />
@@ -466,7 +516,7 @@
 				<item name="SpaghettiCan" chance="0.09" />
 				<item name="BakedBeansCan" chance="0.09" />
 		</cargo>
-		<cargo chance="0.3" name="mixArmy">
+		<cargo chance="0.05" name="mixArmy">
 				<item name="SodaCan_Cola" chance="0.05" />
 				<item name="SodaCan_Pipsi" chance="0.05" />
 				<item name="SodaCan_Spite" chance="0.05" />
@@ -695,16 +745,15 @@
 			<item name="SmershVest" chance="0.05" />
 		</attachments>
 		<attachments chance="0.15" name="bagsArmy">
-			<item name="AssaultBag_Green" chance="0.10" />
-			<item name="AssaultBag_Ttsko" chance="0.10" />
-			<item name="AssaultBag_Black" chance="0.10" />
-			<item name="AliceBag_Camo" chance="0.05" />
-			<item name="AliceBag_Green" chance="0.05" />
-			<item name="AliceBag_Black" chance="0.05" />
-			<item name="TortillaBag" chance="0.05" />
-			<item name="SmershBag" chance="0.05" />
-			<item name="CoyoteBag_Brown" chance="0.01" />
-			<item name="CoyoteBag_Green" chance="0.01" />
+			<item name="AssaultBag_Green" chance="0.20" />
+			<item name="AssaultBag_Ttsko" chance="0.20" />
+			<item name="AssaultBag_Black" chance="0.20" />
+			<item name="AliceBag_Camo" chance="0.02" />
+			<item name="AliceBag_Green" chance="0.02" />
+			<item name="AliceBag_Black" chance="0.02" />
+			<item name="TortillaBag" chance="0.1" />
+			<item name="CoyoteBag_Brown" chance="0.02" />
+			<item name="CoyoteBag_Green" chance="0.02" />
 		</attachments>
 
 		<!-- -------------------------  POLICE ATTACHMENTS  ------------------------- -->
